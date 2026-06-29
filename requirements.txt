@@ -1,0 +1,17 @@
+# Data Manipulation & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Geospatial Analysis
+geopandas>=0.14.0
+shapely>=2.0.0
+
+# Scientific Computing & Stats
+scipy>=1.10.0
+
+# Plotting & Visualization
+matplotlib>=3.7.0
+
+# Image Processing & Networking
+pillow>=10.0.0
+requests>=2.31.0
